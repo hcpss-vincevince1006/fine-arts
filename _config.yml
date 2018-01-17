@@ -1,5 +1,5 @@
 title: Fine Arts
-baseurl: "/fine-arts-proto/" # the subpath of your site, e.g. /blog
+baseurl: "/fine-arts/" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
